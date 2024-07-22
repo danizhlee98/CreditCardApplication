@@ -1,0 +1,24 @@
+C:\Users\danizh.a\Documents\MyProject\Moq\CreditCardApplications\CreditCardApps\obj\Debug\net6.0\CreditCardApps.csproj.AssemblyReference.cache
+C:\Users\danizh.a\Documents\MyProject\Moq\CreditCardApplications\CreditCardApps\obj\Debug\net6.0\CreditCardApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danizh.a\Documents\MyProject\Moq\CreditCardApplications\CreditCardApps\obj\Debug\net6.0\CreditCardApps.AssemblyInfoInputs.cache
+C:\Users\danizh.a\Documents\MyProject\Moq\CreditCardApplications\CreditCardApps\obj\Debug\net6.0\CreditCardApps.AssemblyInfo.cs
+C:\Users\danizh.a\Documents\MyProject\Moq\CreditCardApplications\CreditCardApps\obj\Debug\net6.0\CreditCardApps.csproj.CoreCompileInputs.cache
+C:\Users\danizh.a\Documents\MyProject\Moq\CreditCardApplications\CreditCardApps\bin\Debug\net6.0\CreditCardApps.deps.json
+C:\Users\danizh.a\Documents\MyProject\Moq\CreditCardApplications\CreditCardApps\bin\Debug\net6.0\CreditCardApps.dll
+C:\Users\danizh.a\Documents\MyProject\Moq\CreditCardApplications\CreditCardApps\bin\Debug\net6.0\CreditCardApps.pdb
+C:\Users\danizh.a\Documents\MyProject\Moq\CreditCardApplications\CreditCardApps\obj\Debug\net6.0\CreditCardApps.dll
+C:\Users\danizh.a\Documents\MyProject\Moq\CreditCardApplications\CreditCardApps\obj\Debug\net6.0\refint\CreditCardApps.dll
+C:\Users\danizh.a\Documents\MyProject\Moq\CreditCardApplications\CreditCardApps\obj\Debug\net6.0\CreditCardApps.pdb
+C:\Users\danizh.a\Documents\MyProject\Moq\CreditCardApplications\CreditCardApps\obj\Debug\net6.0\ref\CreditCardApps.dll
+C:\Users\danizh.a\Documents\My Project\CAPSUL\Moq\CreditCardApplications\CreditCardApps\bin\Debug\net6.0\CreditCardApps.deps.json
+C:\Users\danizh.a\Documents\My Project\CAPSUL\Moq\CreditCardApplications\CreditCardApps\bin\Debug\net6.0\CreditCardApps.dll
+C:\Users\danizh.a\Documents\My Project\CAPSUL\Moq\CreditCardApplications\CreditCardApps\bin\Debug\net6.0\CreditCardApps.pdb
+C:\Users\danizh.a\Documents\My Project\CAPSUL\Moq\CreditCardApplications\CreditCardApps\obj\Debug\net6.0\CreditCardApps.csproj.AssemblyReference.cache
+C:\Users\danizh.a\Documents\My Project\CAPSUL\Moq\CreditCardApplications\CreditCardApps\obj\Debug\net6.0\CreditCardApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danizh.a\Documents\My Project\CAPSUL\Moq\CreditCardApplications\CreditCardApps\obj\Debug\net6.0\CreditCardApps.AssemblyInfoInputs.cache
+C:\Users\danizh.a\Documents\My Project\CAPSUL\Moq\CreditCardApplications\CreditCardApps\obj\Debug\net6.0\CreditCardApps.AssemblyInfo.cs
+C:\Users\danizh.a\Documents\My Project\CAPSUL\Moq\CreditCardApplications\CreditCardApps\obj\Debug\net6.0\CreditCardApps.csproj.CoreCompileInputs.cache
+C:\Users\danizh.a\Documents\My Project\CAPSUL\Moq\CreditCardApplications\CreditCardApps\obj\Debug\net6.0\CreditCardApps.dll
+C:\Users\danizh.a\Documents\My Project\CAPSUL\Moq\CreditCardApplications\CreditCardApps\obj\Debug\net6.0\refint\CreditCardApps.dll
+C:\Users\danizh.a\Documents\My Project\CAPSUL\Moq\CreditCardApplications\CreditCardApps\obj\Debug\net6.0\CreditCardApps.pdb
+C:\Users\danizh.a\Documents\My Project\CAPSUL\Moq\CreditCardApplications\CreditCardApps\obj\Debug\net6.0\ref\CreditCardApps.dll
